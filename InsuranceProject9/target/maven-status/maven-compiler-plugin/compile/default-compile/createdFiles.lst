@@ -1,0 +1,10 @@
+com\insuranceproject\repository\UserRepository.class
+com\insuranceproject\service\UserService.class
+com\insuranceproject\restcontroller\MainRestController.class
+com\insuranceproject\repository\PolicyRepository.class
+com\insuranceproject\model\Policy.class
+com\insuranceproject\model\User.class
+com\insuranceproject\serviceimpl\UserServiceImpl.class
+com\insuranceproject\main\InsuranceProject9Application.class
+com\insuranceproject\service\PolicyService.class
+com\insuranceproject\serviceimpl\PolicyImpl.class
